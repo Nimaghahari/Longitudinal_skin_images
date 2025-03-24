@@ -1,5 +1,5 @@
-# Example python script for extracting tiles from Vectra JSON files
-# Adam Mothershaw | a.mothershaw@uq.edu.au 
+# Example Python script for extracting tiles from Vectra JSON files
+# My colleague, Adam Mothershaw, has provided this code | a.mothershaw@uq.edu.au 
 
 import pandas as pd
 from pathlib import Path
