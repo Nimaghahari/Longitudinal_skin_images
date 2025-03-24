@@ -3,4 +3,3 @@ The code provided here extracts tile images from the JSON file.
 The path should be the folder containing the JSON files.
 The picture below shows all the tile images combined into a single JSON file.
 
-
